@@ -33,6 +33,7 @@ module.exports = {
   ** Nuxt.js dev-modules
   */
   buildModules: [
+    '@nuxtjs/pwa'
   ],
   /*
   ** Nuxt.js modules
